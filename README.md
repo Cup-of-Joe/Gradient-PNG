@@ -1,5 +1,5 @@
 # Gradient-PNG
-Creates gradient with a JavaScript canvas and then writes it as an png.
+Creates gradient with a JavaScript canvas and then writes it as a png.
 
 A gradient is generated with a color array evenly distributed across the draw coordinates. A gradient type can be provided to change between drawing linear, conic, and radial gradients.
 
